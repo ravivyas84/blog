@@ -106,7 +106,7 @@ These values are hardcoded in Astro config, helper modules, and layout/component
 
 - The homepage is assembled from reusable React components in `src/ui/` and composed in `src/ui/home/HomePage.tsx`
 - `BrandMark` is the composed wordmark lockup; the green dot is a purely visual separator/accent, not a status indicator
-- The homepage search field is currently presentational only; it does not execute real search queries
+- The shared search field submits to `/search/?q=...`; `src/pages/search.json.ts` generates the full-text index and `src/ui/SearchResults.tsx` filters posts/pages client-side
 - The theme toggle remains functional and is wired by `public/scripts/theme-toggle.js`
 - Favorite quotes are stored in `src/lib/site-profile.ts`; `FavoriteQuoteSection` randomly displays one quote on load and links to `/quotes/`
 

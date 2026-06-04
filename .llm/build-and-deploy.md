@@ -31,9 +31,11 @@ The build will:
 6. Render the all-tags listing → `build/tag/index.html`
 7. Render per-tag listing pages → `build/tag/{tag}/index.html`
 8. Render dedicated app/static routes such as `/quotes/` and `/projects-and-tools/`
-9. Generate RSS feed → `build/feed.xml`
-10. Generate sitemap → `build/sitemap.xml`
-11. Copy `public/` into `build/`
+9. Render the search page → `build/search/index.html`
+10. Generate the search index → `build/search.json`
+11. Generate RSS feed → `build/feed.xml`
+12. Generate sitemap → `build/sitemap.xml`
+13. Copy `public/` into `build/`
 
 ## Storybook
 
@@ -54,6 +56,8 @@ build/
 ├── index.html                        # Homepage
 ├── posts/index.html                  # All posts listing
 ├── quotes/index.html                 # Favorite quotes page
+├── search/index.html                 # Client-side search page
+├── search.json                       # Build-time full-text search index
 ├── tag/index.html                    # All tags listing
 ├── tag/{tag}/index.html              # Per-tag post listings
 ├── feed.xml                          # RSS feed

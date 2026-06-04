@@ -222,6 +222,14 @@ export const favoriteQuotes: FavoriteQuote[] = [
     why: 'It connects care to noticing details, which is true in relationships and product work.',
   },
   {
+    id: 'leonard-understand-who',
+    text: "You cannot make something good until you understand who you're making it for.",
+    attribution: 'Leonard',
+    source: 'The Outfit (2022)',
+    href: 'https://www.imdb.com/title/tt14114802/quotes/?item=qt6515920',
+    why: 'It is a useful reminder that quality starts with understanding the customer.',
+  },
+  {
     id: 'tools-used-by-millions',
     text: 'Tools used by millions go away all the time.',
     attribution: 'Michal Malewicz',
@@ -315,8 +323,7 @@ export const aboutPageSiteLinks = [
 export const aboutPageNote = ['Curious forever.', 'Building always.'];
 
 export const footerLinks: LinkItem[] = [
-  { href: 'https://mastodon.social/@ravi', icon: 'mastodon', label: 'Mastodon', external: true },
-  { href: 'http://x.com/ravivyas', icon: 'twitter', label: 'Twitter', external: true },
+  { href: 'http://x.com/ravivyas84', icon: 'twitter', label: 'Twitter', external: true },
   { href: 'https://www.linkedin.com/in/ravivyas/', icon: 'linkedin', label: 'LinkedIn', external: true },
   { href: 'https://github.com/ravivyas84', icon: 'github', label: 'GitHub', external: true },
   { href: '/feed.xml', icon: 'rss', label: 'RSS' },

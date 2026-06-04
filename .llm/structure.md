@@ -55,7 +55,7 @@ markdown-html/
 │       ├── [slug]/index.astro         # Static pages from pages/
 │       └── [year]/[month]/[day]/[slug]/index.astro  # Blog post permalinks
 │
-├── posts/                             # Blog post Markdown files (60 posts)
+├── posts/                             # Blog post Markdown files (62 posts)
 ├── pages/                             # Static page Markdown files (6 pages)
 ├── public/                            # Static assets copied as-is to build/
 │   ├── assets/

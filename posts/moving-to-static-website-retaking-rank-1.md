@@ -45,7 +45,7 @@ It is not that I dislike WordPress, products like WordPress and Webflow are enab
 
 ## \[Action Required\]
 
-I decided to move back to hosting my blog on a static site, something [I had done in the past](https://twitter.com/ravivyas84/status/1019269612855148544) by [rolling my own static site builder](https://github.com/ravivyas84/NodeStaticSiteGenerator) and using Hugo before that. But this time, after a lot of searching, I decided to join the Eleventy bandwagon and move to Netlify as a hosting service. I will detail out why in future posts. 
+I decided to move back to hosting my blog on a static site, something I had done in the past by [rolling my own static site builder](https://github.com/ravivyas84/NodeStaticSiteGenerator) and using Hugo before that. But this time, after a lot of searching, I decided to join the Eleventy bandwagon and move to Netlify as a hosting service. I will detail out why in future posts. 
 
 ## Hope for creativity by constraints
 

@@ -21,7 +21,7 @@ If you just started up, or have some revenue coming through the door, you probab
 ## Topics Covered
 
 - [Topics Covered](#topics-covered)
-- [It is all about Margins & Unit Economics](#it-is-all-about-margins--unit-economics)
+- [It is all about Margins \& Unit Economics](#it-is-all-about-margins--unit-economics)
 - [Price Based Positioning](#price-based-positioning)
 - [Price on Value](#price-on-value)
 - [Pricing is a Tax](#pricing-is-a-tax)
@@ -106,7 +106,6 @@ Those are my 9 points on pricing. Do you think I missed any? Let me know on [twi
 
 Did the post add value to you? If you please take a moment to retweet the tweet below or subscribe to my [Substack newsletter](https://ravivyas.substack.com/)
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">9 Things to consider when planning Pricing</p>&mdash; Ravi Vyas ⊾ (@ravivyas84) <a href="https://twitter.com/ravivyas84/status/1198841314353254400">Nov 25, 2019</a></blockquote>
 
 * * *
 
